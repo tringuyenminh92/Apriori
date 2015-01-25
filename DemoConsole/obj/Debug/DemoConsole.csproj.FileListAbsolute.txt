@@ -1,0 +1,8 @@
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\DemoConsole\obj\Debug\DemoConsole.csprojResolveAssemblyReference.cache
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\DemoConsole\bin\Debug\DemoConsole.exe.config
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\DemoConsole\bin\Debug\DemoConsole.exe
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\DemoConsole\bin\Debug\DemoConsole.pdb
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\DemoConsole\bin\Debug\AprioriObject.dll
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\DemoConsole\bin\Debug\AprioriObject.pdb
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\DemoConsole\obj\Debug\DemoConsole.exe
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\DemoConsole\obj\Debug\DemoConsole.pdb

@@ -1,0 +1,5 @@
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\AprioriObject\bin\Debug\AprioriObject.dll
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\AprioriObject\bin\Debug\AprioriObject.pdb
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\AprioriObject\obj\Debug\AprioriObject.csprojResolveAssemblyReference.cache
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\AprioriObject\obj\Debug\AprioriObject.dll
+c:\users\ga9286\Dropbox\DropVox\C#\WorkSpaceC#\Apriori\AprioriObject\obj\Debug\AprioriObject.pdb
